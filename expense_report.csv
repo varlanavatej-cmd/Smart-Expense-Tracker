@@ -1,0 +1,3 @@
+ID,Type,Amount,Date,Description,Source/Category
+1,Income,25000.0,2026-07-11,"monthly salary","salary"
+2,Expense,1500.0,2026-07-11,"monthly groceries","FOOD"
